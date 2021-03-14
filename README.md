@@ -6,6 +6,8 @@ Problem Statement
 There are four main methods for solving quadratic equations: factorization, completing the squares, graphs and the quadratic formula. Each method has its own limitations. A method that will work for almost every quadratic equation is the quadratic formula. We define it as follows: If ax2+bx+c=0 is a quadratic equation, then the value of x is given by the formula:
 
 ![image](https://user-images.githubusercontent.com/80604324/111087229-6ebe9a00-84ee-11eb-8401-cb35892f8ca6.png)
+![image](https://user-images.githubusercontent.com/80604324/111087278-c826c900-84ee-11eb-8267-89e15d24edc3.png)
+
 
 The quantity in the square root is called the discriminant or D. If it is positive the quadratic has two distinct real number solutions, if it is zero it has repeated real number solutions and if it is negative neither of the solutions are real numbers.
 
